@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: rem;
+  background-color: #e4d2c4;
+}
+
+#projects {
+  background-color: #e4d2c4;
+  .center {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+}
+
+section {
+  padding-top: 5rem;
+}
